@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.7.0'
+ruby '3.0.0'
 
 gem 'rails-i18n', '~> 5.1'
 gem 'twitter-bootstrap-rails'
